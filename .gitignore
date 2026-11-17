@@ -1,0 +1,10 @@
+# Git ignore for C++ project
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+.vscode/
+.idea/
+bin/
+obj/
